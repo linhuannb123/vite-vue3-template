@@ -16,36 +16,23 @@
     <img src="" alt="">
 </p>
 
-一个开箱即用，快速搭建大型应用的 Vue3 + Vite4.0 + TypeScript+...模板框架。集成了各类插件，并进行了模块化和按需加载的优化，可以放心使用。 [文档](https://tobe-fe-dalao.github.io/fast-vue3-site/)
+大規模なアプリケーションを素早く構築するための、Vue3+Vite4.0+TypeScript などのテンプレートフレームワークがあります。さまざまなプラグインが統合され、モジュール化とオンデマンドリードに最適化されているため、安心して使用できます。 [ドキュメント](https://tobe-fe-dalao.github.io/fast-vue3-site/)
 
-简体中文 | [English](./README-en.md) | [日本語](./README.ja-JP.md)。
+[English](./README-en.md) | [简体中文](./README.md) | 日本語
 
-# 快速开始
+# 貢献者
 
-推荐使用 pnpm
+このプロジェクトは、貢献してくれた皆さんのおかげで存在しています
 
-```shell
-pnpm install
-```
-
-运行命令
-
-```shell
-pnpm dev
-```
-
-# 贡献者
-
-这个项目的存在要感谢所有做出贡献的人。
-
-并感谢我们所有的支持者! 🙏
+そして、すべてのサポーターに感謝します！
 
 <a href="https://github.com/study-vue3/fast-vue3/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=study-vue3/fast-vue3" />
 </a>
 
-# Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tobe-fe-dalao/fast-vue3&type=Timeline)](https://star-history.com/#tobe-fe-dalao/fast-vue3&Timeline)
-
-# vite-vue3-template
+<p>
+<img width="360" src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/varqun.jpg">
+</p>
+<p>
+<img width="360" src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/扫地盲僧公众号.png">
+</p>
